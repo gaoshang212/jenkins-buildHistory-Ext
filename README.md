@@ -2,4 +2,4 @@
 * 命令行
 * Rebuild 
 
-### 的 UserScript 中添加 @include 包含您的jenkins 地址
+#### 请 UserScript 中添加 @include 包含您的jenkins 地址
